@@ -2,6 +2,11 @@
 ## Deepgram Text-to-Speech API Implementation 
 This repository contains a PHP script that demonstrates how to use the Deepgram Text-to-Speech API to convert text into speech and save it as an audio file.
 
+<audio controls>
+  <source src="https://simkafire.com/output2.wav" type="audio/wav">
+  Your browser does not support the audio element. You can [listen to the README here](https://your-server.com/path/to/readme_audio.wav).
+</audio>
+
 ## Prerequisites
 
 - PHP 7.4 or higher
