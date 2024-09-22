@@ -7,6 +7,7 @@ This repository contains a PHP script that demonstrates how to use the Deepgram 
   Your browser does not support the audio element.
 </audio>
 
+
 ## Prerequisites
 
 - PHP 7.4 or higher
