@@ -1,6 +1,6 @@
 # Deepgram-Text-to-Speech-API
 ## Deepgram Text-to-Speech API Implementation 
-![Nginx](https://sk10codebase.online/images/DeepGram.jpg)
+![Nginx](https://shorturl.sk10codebase.online/images/DeepGram.jpg)
 
 This repository contains a PHP script that demonstrates how to use the Deepgram Text-to-Speech API to convert text into speech and save it as an audio file.
 
